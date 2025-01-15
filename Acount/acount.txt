@@ -1,5 +1,0 @@
-FTP
-Host: sl1736.web.hostpoint.ch
-Port: 21
-Username: globalvision@v-r-c.ch 
-Password: wYZzAWXaB7s1rDPTR-PX
