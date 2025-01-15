@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: VRC_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3f8d5fd3559e17b488fea4286644fac8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8541451050917560346
+  m_TableData:
+  - m_Id: 1114115719168
+    m_Localized: Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1783602135040
+    m_Localized: Session name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2016243400704
+    m_Localized: Join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12895789826048
+    m_Localized: Please enter room name !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15479602724864
+    m_Localized: Failure to create room, please try again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15891038781440
+    m_Localized: Failure to join room. Please wait for room creation and try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21162184196096
+    m_Localized: "Loading\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21416560345088
+    m_Localized: Please wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22735580872704
+    m_Localized: Create session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26731343298560
+    m_Localized: 'Session: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 8541451050917560346
+  - m_Id: 27424896630784
+    m_Localized: 'Connection status: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 8541451050917560346
+  - m_Id: 28223055904768
+    m_Localized: 'Number of devices: {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 8541451050917560346
+  - m_Id: 30618024460288
+    m_Localized: Patient name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30769443028992
+    m_Localized: Please touch field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31138965405696
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31322805944320
+    m_Localized: 'Duration:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31464418230272
+    m_Localized: (seconds)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31614314266624
+    m_Localized: Total video loop duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31805104766976
+    m_Localized: 'Video:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32422774751232
+    m_Localized: 'Audio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32581428494336
+    m_Localized: 'Delay:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32712928313344
+    m_Localized: Delay audio start point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32940309921792
+    m_Localized: Update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33098137387008
+    m_Localized: 'Choose profile:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33483019304960
+    m_Localized: File management
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34462368317440
+    m_Localized: 'Remaining time:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35027190071296
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44584398274560
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8541451050917560346
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26731343298560
+        - id: 27424896630784
+        - id: 28223055904768

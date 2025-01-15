@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: VRC Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: VRC
+  m_TableCollectionNameGuidString: 3f8d5fd3559e17b488fea4286644fac8
+  m_Entries:
+  - m_Id: 1114115719168
+    m_Key: Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1783602135040
+    m_Key: Nom de session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2016243400704
+    m_Key: Rejoindre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12895789826048
+    m_Key: Room name empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15479602724864
+    m_Key: Create room failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15891038781440
+    m_Key: Join room failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21162184196096
+    m_Key: Chargement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21416560345088
+    m_Key: Veuillez patienter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22735580872704
+    m_Key: "Cr\xE9er une session"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26731343298560
+    m_Key: Room name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27424896630784
+    m_Key: Status Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28223055904768
+    m_Key: Device Connect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30618024460288
+    m_Key: Nom du patient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30769443028992
+    m_Key: Veuillez toucher la case
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31138965405696
+    m_Key: Informations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31322805944320
+    m_Key: "Dur\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31464418230272
+    m_Key: (secondes)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31614314266624
+    m_Key: "Dur\xE9e totale de la boucle vid\xE9o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31805104766976
+    m_Key: "Vid\xE9o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32422774751232
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32581428494336
+    m_Key: "Diff\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32712928313344
+    m_Key: "D\xE9lai de d\xE9marrage audio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32940309921792
+    m_Key: "Mettre \xE0 jour"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33098137387008
+    m_Key: Choisir profil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33483019304960
+    m_Key: Gestion de fichiers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34462368317440
+    m_Key: Temps restant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35027190071296
+    m_Key: Announce hide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44584398274560
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8541451050713088052
+  references:
+    version: 2
+    RefIds:
+    - rid: 8541451050713088052
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1734922174822
